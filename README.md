@@ -3,4 +3,4 @@
 
 LibreOffice is a free, open-source office productivity suite that functions as an alternative to Microsoft Office for word processing, spreadsheets, presentations, databases, and graphics. Developed by The Document Foundation, it includes applications like Writer (word processing), Calc (spreadsheet), and Impress (presentations). LibreOffice supports the OpenDocument format and is compatible with other major formats, including those used by Microsoft Office, and is available for Windows, macOS, and Linux operating systems.
 
-## [Just go on "Releases" to get a version of LibreOffice]([https://github.com/LibreOffice/releases/](https://github.com/DreamPack-Software/LibreOffice/releases))
+## [Just go on "Releases" to get a version of LibreOffice](https://github.com/DreamPack-Software/LibreOffice/releases)
